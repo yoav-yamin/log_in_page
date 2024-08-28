@@ -39,14 +39,12 @@ Ensure you have the following installed:
 
    ```bash
    npm install
-   npm install validator
    ```
 
    or
 
    ```bash
    yarn install
-   yarn install validator
    ```
 
 ## Project Structure
