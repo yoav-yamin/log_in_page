@@ -89,8 +89,3 @@ yarn run dev
 ```
 
 This will start the development server, and you can view the application in your browser.
-
-## Additional Information
-
-- This project was bootstrapped with [Vite](https://vitejs.dev/), which is an alternative to Create React App. It offers a faster and leaner development experience.
-- The main focus of this project is the implementation of a login page interface using React components.
